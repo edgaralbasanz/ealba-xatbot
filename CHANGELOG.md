@@ -32,4 +32,4 @@
 
 ---
 
-**Projecte:** XatBot Talent 2026 - Sergi Villanueva
+**Projecte:** XatBot Talent 2026 - Edgar Alba
