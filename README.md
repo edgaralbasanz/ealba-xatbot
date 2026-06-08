@@ -1,4 +1,4 @@
-# XatBot Talent 2026 - Sergi Villanueva
+# XatBot Talent 2026 - Edgar Alba
 
 **XatBot intel·ligent per WordPress** que utilitza **Google Gemini** per respondre preguntes sobre el teu contingut web de forma dinàmica.
 
